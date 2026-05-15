@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+*.apk
+*.aab
+*.ipa
+
+# Android
+android/app/build/
+android/.gradle/
+android/build/
+*.iml
+
+# iOS
+ios/App/Pods/
+ios/App/build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+
+# Capacitor
+.vscode/
+.platforms/
+plugins/

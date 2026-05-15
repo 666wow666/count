@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">紫微星盘</string>
+    <string name="title_activity_main">紫微星盘</string>
+    <string name="package_name">com.fortune.ziwei</string>
+    <string name="custom_url_scheme">com.fortune.ziwei</string>
+</resources>
