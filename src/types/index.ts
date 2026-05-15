@@ -44,13 +44,9 @@ export interface StarChart {
 }
 
 export interface FortuneAnalysis {
-  mingGongInterpretation: string;
-  careerInterpretation: string;
-  loveInterpretation: string;
-  wealthInterpretation: string;
-  yearlyFortune: string;
-  personalityTraits: string;
-  mbtiFusion: string;
+  content: string;
+  timestamp: number;
+  type: string;
 }
 
 export interface FortuneRecord {
